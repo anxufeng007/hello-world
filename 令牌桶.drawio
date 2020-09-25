@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T10:59:11.779Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="tszgDSbGPZOqWcwd1d8g" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T11:00:06.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="cw6JHx_-tJVf2qixzPJm" version="13.7.5" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -30,15 +30,16 @@
         <mxCell id="bs5Z2jcvvp319eglyJQV-9" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="605" y="430" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bs5Z2jcvvp319eglyJQV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-12" target="bs5Z2jcvvp319eglyJQV-1">
+        <mxCell id="bs5Z2jcvvp319eglyJQV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.8;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="bs5Z2jcvvp319eglyJQV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="406" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="270" y="409" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bs5Z2jcvvp319eglyJQV-12" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.circuit_breaker;" vertex="1" parent="1">
-          <mxGeometry x="200" y="390" width="70" height="20" as="geometry" />
+        <mxCell id="bs5Z2jcvvp319eglyJQV-14" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="75" height="19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
