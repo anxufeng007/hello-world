@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T11:00:06.986Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="cw6JHx_-tJVf2qixzPJm" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T11:02:57.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4259.3 Safari/537.36" etag="XA0_W1DL2Gyo7i2AW-pt" version="13.7.5" type="github">
   <diagram name="Page-1" id="7e0a89b8-554c-2b80-1dc8-d5c74ca68de4">
     <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -18,6 +18,11 @@
         <mxCell id="bs5Z2jcvvp319eglyJQV-1" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.two_way_contact;" vertex="1" parent="1">
           <mxGeometry x="440" y="400" width="50" height="17.5" as="geometry" />
         </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bs5Z2jcvvp319eglyJQV-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="600" y="320" width="130" height="80" as="geometry" />
         </mxCell>
@@ -26,6 +31,9 @@
         </mxCell>
         <mxCell id="bs5Z2jcvvp319eglyJQV-5" value="令牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="360" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-9" target="bs5Z2jcvvp319eglyJQV-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bs5Z2jcvvp319eglyJQV-9" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="605" y="430" width="130" height="80" as="geometry" />
@@ -40,6 +48,38 @@
         </mxCell>
         <mxCell id="bs5Z2jcvvp319eglyJQV-14" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.electro-mechanical.simple_switch;" vertex="1" parent="1">
           <mxGeometry x="200" y="390" width="75" height="19" as="geometry" />
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-15" target="bs5Z2jcvvp319eglyJQV-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="300" y="630" />
+              <mxPoint x="970" y="630" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-15" value="限流？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="910" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-17" value="获取令牌" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bs5Z2jcvvp319eglyJQV-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1080" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bs5Z2jcvvp319eglyJQV-21" value="请求处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
