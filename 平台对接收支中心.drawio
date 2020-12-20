@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-12-20T10:15:15.126Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4356.6 Safari/537.36" version="14.0.1" etag="CupaJC-l0YKMUvn00tOo" type="github"><diagram id="xHPZ-cw9y-A7WauhMOmn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-20T13:57:24.933Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4356.6 Safari/537.36" etag="0s9G-c_3cbChAl4bv1do" version="14.0.1" type="github">
+  <diagram id="xHPZ-cw9y-A7WauhMOmn" name="Page-1">
+    <mxGraphModel dx="946" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-1" value="订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="6Zz-A64YLW5F50dv3Aoq-2" target="6Zz-A64YLW5F50dv3Aoq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-2" value="渠道" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6Zz-A64YLW5F50dv3Aoq-3" target="6Zz-A64YLW5F50dv3Aoq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-3" value="cps" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-4" value="会员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6Zz-A64YLW5F50dv3Aoq-7" value="keCoin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
